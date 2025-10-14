@@ -2,3 +2,7 @@
 	path = src/ros1_bridge
 	url = https://github.com/ros2/ros1_bridge.git
 	branch = foxy
+[submodule "src/mavros_bridge_py"]
+	path = src/mavros_bridge_py
+	url = https://github.com/nat9dai/mavros_bridge_py.git
+	branch = main
